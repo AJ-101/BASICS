@@ -25,8 +25,8 @@ names1 = ['Amir', 'Bear', 'Charlton', 'Daman']
 names3 = names1[:]
 
 #Reversal of number
-Number = int(input("Please Enter any Number: "))    
-#Number = 12
+#Number = int(input("Please Enter any Number: "))    
+Number = 12
 Reverse = 0    
 while(Number > 0):    
     Reminder = Number % 10
