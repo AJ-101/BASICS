@@ -1,3 +1,4 @@
+#!/user/bin/python
 # -*- coding: utf-8 -*-
 """
 Created on Mon Mar  9 14:22:04 2020
@@ -20,7 +21,8 @@ names1 = ['Amir', 'Bear', 'Charlton', 'Daman']
 names3 = names1[:]
 
 #Reversal of number
-Number = int(input("Please Enter any Number: "))    
+#Number = int(input("Please Enter any Number: "))    
+Number = 12
 Reverse = 0    
 while(Number > 0):    
     Reminder = Number % 10
